@@ -19,4 +19,4 @@ Enter RPM L: 10
 2. Numpy
 3. MatplotLib
 
-GITHUB LINK - https://github.com/vanamagautam24/proj3_kavya_gautam_matplotlib
+GITHUB LINK - hhttps://github.com/vanamagautam24/proj3_kavya_gautam_matplotlib_ros/tree/main/PART_1
